@@ -2,7 +2,7 @@
     "name": "XBug-Bot",
     "version": "8.0.0",
     "description": "WhatsApp War Bot Using Nodejs",
-    "main": "index.js",
+    "main": "painzy.js",
     "type": "commonjs",
     "directories": {
         "lib": "lib",
@@ -12,7 +12,7 @@
         "media": "media"
     },
     "scripts": {
-        "start": "node index.js"
+        "start": "node painzy.js"
     },
     "author": "GlobalTechInfo",
     "license": "Apache-2.0",
